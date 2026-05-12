@@ -1,5 +1,4 @@
 # COMP50069_Smart_Greenhouse_HVAC_Controller
-# Industrial IoT Smart Greenhouse HVAC Controller
 
 ## Overview
 This project is an Industrial IoT Smart Greenhouse HVAC Controller developed using ESP32 and FreeRTOS.
